@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6273246-d5ca-4b61-ad04-d3a5b94404d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entidades/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entidades/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/teste/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teste/Teste.java" afterDir="false" />
@@ -66,10 +65,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1579707583106">
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1579708210092">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1579707583106" />
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1579708210092" />
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579704594586">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

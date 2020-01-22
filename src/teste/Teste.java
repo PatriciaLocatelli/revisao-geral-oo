@@ -35,6 +35,8 @@ public class Teste {
         System.out.println(produto.toString());
         System.out.println("Quantidade em estoque " + produto.totalEmEstoque());
 
+        System.out.println("Modificado o nome do produto");
+        produto.setNome("TV");
 
         System.out.println("");
         sc.close();
