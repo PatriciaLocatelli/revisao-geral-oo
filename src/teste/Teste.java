@@ -10,14 +10,15 @@ public class Teste {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        Produto produto = new Produto();
+
 
         System.out.println("Nome do produto: ");
-        produto.nome = sc.nextLine();
+        String nome = sc.nextLine();
         System.out.println("Preço do produto: ");
-        produto.preco = sc.nextDouble();
+        double preco = sc.nextDouble();
         System.out.println("Quantidade do produto: ");
-        produto.quantidade = sc.nextInt();
+        int quantidade = sc.nextInt();
+        Produto produto = new Produto(nome, preco, quantidade);
 
         System.out.println(produto.toString());
         System.out.println("Quantidade em estoque " + produto.totalEmEstoque());
